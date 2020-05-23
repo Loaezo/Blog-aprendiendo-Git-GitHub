@@ -5,7 +5,11 @@ trabajar en algo que lo llenara completamente, pero las
 circunstancias ambientales no se lo habían permitido, así que
 se puso manos a la obra, siendo muy visionario y viendo la 
 situación mundial, se puso a estudiar desarrollo web, 
-programación básica y Git/GitHub. Él sabía que eso iba a ser
+programación básica, Git/GitHub y JavaScript, junto con
+desarrollo en Backend. Ahora tiene más claro su panorama como
+desarrollador y ha sabido que el Backend es algo que se
+solicita mpas que el frontend, así que por ahí se iba a
+inclinar su aprendizaje. Él sabía que eso iba a ser
 difícil, porque ya tenía que salirse de su casapara poder
 trabajar y la carrera que ya había terminado de danza no
 parecía que fuera capaz de darle lo suficiente para poder comer
