@@ -1,4 +1,4 @@
-Esta es la historia de un gato que quería más dinero para mantener a su gata.
+Esta es la historia de un gran gato que quería más dinero para mantener a su gata.
 
 El gato tenía grandes sueños y sabía que algún día iba a 
 trabajar en algo que lo llenara completamente, pero las
@@ -8,7 +8,7 @@ situación mundial, se puso a estudiar desarrollo web,
 programación básica, Git/GitHub y JavaScript, junto con
 desarrollo en Backend. Ahora tiene más claro su panorama como
 desarrollador y ha sabido que el Backend es algo que se
-solicita mpas que el frontend, así que por ahí se iba a
+solicita más que el frontend, así que por ahí se iba a
 inclinar su aprendizaje. Él sabía que eso iba a ser
 difícil, porque ya tenía que salirse de su casapara poder
 trabajar y la carrera que ya había terminado de danza no
