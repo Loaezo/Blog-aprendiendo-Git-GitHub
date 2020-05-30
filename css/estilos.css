@@ -16,10 +16,19 @@ body
   background: #3333aa;
   color: white;
   box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.75);
-  font-weight: bold;
+  font-weight: normal;
   margin: 0;
   padding: 0.5em;
 
+}
+
+#footer
+{
+  background: #3333aa;
+  color: antiquewhite;
+  font-family: Roboto;
+  text-align: center;
+  padding: 1%;
 }
 
 #cabecera #tagline
