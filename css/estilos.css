@@ -37,6 +37,15 @@ body
   font-weight: normal;
 }
 
+#footer
+{
+  background: #3333aa;
+  color: antiquewhite;
+  font-family: Roboto;
+  text-align: center;
+  padding: 1%;
+}
+
 #cabecera #tagline
 {
   padding: 0 0 0 1em;
